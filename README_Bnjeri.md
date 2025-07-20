@@ -1,4 +1,4 @@
-# Early Detection of Imminent SyriaTel Churn Through Predictive Signal Analysis
+# Detection of Imminent SyriaTel Churn Through Predictive Signal Analysis
 
 ###  Author: Boniface Kimondo Njeri  
 **Institution:** Moringa School  
