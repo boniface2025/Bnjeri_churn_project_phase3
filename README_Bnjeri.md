@@ -82,5 +82,5 @@ The model's performance was evaluated using:
 
 *This project was completed as part of the Phase 3 Data Science curriculum at Moringa School.*
 
-To access the github hosting the project work, click on the "Project Git Hub" hyperlink.
+To access the github hosting the project work, click on the "Project Git Hub" hyperlink
 [Project git hub](https://github.com/boniface2025/Bnjeri_churn_project_phase3.git).
