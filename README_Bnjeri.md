@@ -81,4 +81,6 @@ The model's performance was evaluated using:
 - **Offer Loyalty Incentives:** Target heavy users with discounts or personalized offers to retain them.
 
 *This project was completed as part of the Phase 3 Data Science curriculum at Moringa School.*
-(https://github.com/boniface2025/Bnjeri_churn_project_phase3.git) project git hub link
+
+To access the github hosting the project work, click on the "Project Git Hub" hyperlink below.
+[Project git hub](https://github.com/boniface2025/Bnjeri_churn_project_phase3.git)
